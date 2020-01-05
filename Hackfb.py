@@ -77,8 +77,8 @@ vuln = "\033[32mVuln"
 
 os.system("clear")
 print "\033[1;96m ============================================================="
-print  """\033[1;96m [¤] \x1b[1;93mजय श्री राम \x1b[1;96m  \033[1;96m   [¤] \x1b[1;93mWHATSAPP : 085691015635\x1b[1;96m  
-\033[1;96m [¤] \x1b[1;93mमहाकाल भक्त \x1b[1;96m      [¤] \x1b[1;93mFACEBOOK : tools termux\x1b[1;96m  
+print  """\033[1;96m [¤] \x1b[1;93mJAI SHRI RAM \x1b[1;96m  \033[1;96m   [¤] \x1b[1;93mWHATSAPP : NOT FOUND\x1b[1;96m  
+\033[1;96m [¤] \x1b[1;93mMAHAKAL BHAKT \x1b[1;96m      [¤] \x1b[1;93mFACEBOOK : tools termux\x1b[1;96m  
 \033[1;96m [¤] \x1b[1;93mTOOLS MR.ANISH PANDEY\x1b[1;96m  [¤] \x1b[1;93mYOUTUBE  :\x1b[1;96m"""
 print " \x1b[1;93m============================================================="
 
