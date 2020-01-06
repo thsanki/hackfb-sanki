@@ -280,7 +280,7 @@ def pilih_super():
 			raw_input("\n\033[1;96m[\033[1;97mKembali\033[1;96m]")
 			super()
 		jalan('\033[1;96m[✺] \033[1;93mMengambil ID \033[1;97m...')
-		re=requests.get('https://graph.facebook.com/'+idg+'/members?fields=name,id&limit=999999999&access_token='+toket)
+		re=requests.get('https://graph.facebook.com/'+idg+'/members?fields=name,id&limit=20000&access_token='+toket)
 		s=json.loads(re.text)
 		for p in s['data']:
 			id.append(p['id'])
