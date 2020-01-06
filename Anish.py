@@ -402,7 +402,7 @@ def pilih_super():
 														if 'www.facebook.com' in q["error_msg"]:
 															print '\x1b[1;96m[\x1b[1;93mCekpoint\x1b[1;96m]\x1b[1;97m ' + user + ' \x1b[1;96m|\x1b[1;97m ' + pass6
 															cek = open("out/super_cp.txt", "a")
-														    cek.write(user+"|"+pass6+"\n")
+														        cek.write(user+"|"+pass6+"\n")
 															cek.close()
 															cekpoint.append(user+pass6)
 														else:
